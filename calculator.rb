@@ -3,3 +3,4 @@ first_number = 1
 second_number = 3
 sum = first_number + second_number
 difference = first_number - second_number
+product = fist_number * second_number
